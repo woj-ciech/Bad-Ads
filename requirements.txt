@@ -1,0 +1,9 @@
+bs4
+beautifulsoup4
+celery
+celery-progress
+Django
+wget
+ImageHash==4.1.0
+requests
+feedparser
