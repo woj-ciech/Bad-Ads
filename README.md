@@ -6,6 +6,12 @@ Details & Usage & Methodology & Findings described in below article
 
 https://www.offensiveosint.io/offensive-osint-s02e02-human-trafficking-investigation-part-2-monitoring-bedpage/
 
+![](https://www.offensiveosint.io/content/images/size/w1600/2020/07/dashboard.png)
+
+![](https://www.offensiveosint.io/content/images/size/w1600/2020/08/search.png)
+
+![](https://www.offensiveosint.io/content/images/size/w1600/2020/08/people.png)
+
 ```buildoutcfg
 sudo pip3 install -r requirements.txt
 ```
